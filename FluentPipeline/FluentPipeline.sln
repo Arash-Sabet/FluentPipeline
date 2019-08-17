@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewKens.FluentPipeline", "src\NewKens.FluentPipeline\NewKens.FluentPipeline.csproj", "{AB1838ED-F5BD-475A-91EB-648F947FAF2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5B94B51B-CDBE-4E71-9386-3EF4F7A651FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{15CFAC99-1729-45F1-AA3D-29EFC854A7F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{8EF4D69D-8588-4EBA-8D5F-7BE43492120A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "apps", "apps", "{47C5969F-C488-42AF-9432-CD874440DE4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1838ED-F5BD-475A-91EB-648F947FAF2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1838ED-F5BD-475A-91EB-648F947FAF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1838ED-F5BD-475A-91EB-648F947FAF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1838ED-F5BD-475A-91EB-648F947FAF2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB1838ED-F5BD-475A-91EB-648F947FAF2E} = {5B94B51B-CDBE-4E71-9386-3EF4F7A651FE}
+		{47C5969F-C488-42AF-9432-CD874440DE4D} = {15CFAC99-1729-45F1-AA3D-29EFC854A7F9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFAB9536-D4A0-4CB5-87CF-BF9219A8F824}
+	EndGlobalSection
+EndGlobal
